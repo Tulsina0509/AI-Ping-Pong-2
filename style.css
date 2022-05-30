@@ -1,0 +1,40 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%
+    text-align:left;
+    margin-bottom: 5px;
+
+}
+
+.heading h3
+{
+    display:inline;
+    font-size:block;
+
+}
+
+.heading button
+{
+    float:right;
+    border: 3px solid grey;
+}
+
+.footer
+{
+    background-color: black;
+    color:whitesmoke;
+    line-height:2;
+    position: sticky;
+    width:100%;
+}
+
+.modal-body
+{
+    text-align:left;
+}
